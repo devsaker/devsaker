@@ -83,72 +83,62 @@ I am passionate about developing modern, responsive, secure and scalable web app
 
 ---
 
+
 <h2 align="center">🚀 DEVELOPMENT SKILLS</h2>
 
-<table width="100%">
-<tr>
-<td width="100%" valign="top">
-
-### Backend
-- PHP Programming
-- Laravel Framework
-- MVC Architecture
-- RESTful API Development
-- Authentication & Authorization
-- Middleware
-- Eloquent ORM
-- Database Relationships
-- Form Validation
-- API Security
-
-</td>
-<td width="100%" valign="top">
-
-### Frontend
-- HTML5 & CSS3
-- JavaScript ES6+
-- Bootstrap
-- Tailwind CSS
-- Responsive Web Design
-- React.js
-- jQuery
-- AJAX
-- UI/UX Fundamentals
-- API Integration
-
-</td>
-</tr>
-<tr>
-<td width="100%" valign="top">
-
-### Database
-- MySQL
-- PostgreSQL
-- MongoDB
-- SQL Queries
-- Database Normalization
-- Indexing
-- Migrations
-- Relationships
-
-</td>
-<td width="100%" valign="top">
-
-### Professional Tools
-- Git & GitHub
-- VS Code
-- Postman
-- Composer
-- NPM
-- Docker
-- Linux
-- CI/CD
-- Deployment
-- Debugging
-
-</td>
-</tr>
+<table width="100%" align="center">
+  <thead>
+    <tr>
+      <th width="25%" align="left">Category</th>
+      <th width="75%" align="left">Skills & Technologies</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Backend</b></td>
+      <td>
+        PHP Programming · Laravel Framework · MVC Architecture · RESTful API Development · Authentication & Authorization · Middleware · Eloquent ORM · Database Relationships · Form Validation · API Security
+      </td>
+    </tr>
+    <tr>
+      <td><b>Frontend</b></td>
+      <td>
+        HTML5 · CSS3 · JavaScript ES6+ · Bootstrap · Tailwind CSS · React.js · jQuery · AJAX · Responsive Web Design · API Integration · UI/UX Fundamentals
+      </td>
+    </tr>
+    <tr>
+      <td><b>Database</b></td>
+      <td>
+        MySQL · PostgreSQL · MongoDB · SQL Queries · Database Normalization · Indexing · Migrations · Database Relationships
+      </td>
+    </tr>
+    <tr>
+      <td><b>Security</b></td>
+      <td>
+        Laravel Authentication · Authorization · Middleware Security · CSRF Protection · Input Validation · Password Hashing
+      </td>
+    </tr>
+    <tr>
+      <td><b>Development Tools</b></td>
+      <td>
+        Git · GitHub · VS Code · Postman · Composer · NPM · Debugging
+      </td>
+    </tr>
+    <tr>
+      <td><b>DevOps & Deployment</b></td>
+      <td>
+        Linux · Docker · CI/CD · Server Configuration · Application Deployment
+      </td>
+    </tr>
+    <tr>
+      <td><b>Testing</b></td>
+      <td>
+        PHPUnit · Laravel Feature Testing · Unit Testing · API Testing
+      </td>
+    </tr>
+  </tbody>
 </table>
+
 
 ---
 
