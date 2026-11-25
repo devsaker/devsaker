@@ -49,6 +49,7 @@ I am passionate about developing modern, responsive, secure and scalable web app
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MVC_Architecture-6C63FF?style=for-the-badge" />
 </p>
 
 <h3 align="center">🌐 Frontend Development</h3>
