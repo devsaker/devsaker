@@ -42,7 +42,7 @@ I am passionate about developing modern, responsive, secure and scalable web app
 <h3 align="center">💜 Backend Development</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs" />
 </p>
 
 <p align="center">
