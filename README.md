@@ -142,54 +142,72 @@ I am passionate about developing modern, responsive, secure and scalable web app
 
 ---
 
+
 <h2 align="center">💼 FEATURED PROJECTS</h2>
 
-<table width="100%">
-<tr>
-<td width="100%" valign="top">
-
-<h3 align="center">🛒 E-Commerce System</h3>
-<p align="center">A modern online shopping platform.</p>
-<p align="center">
-PHP · Laravel · MySQL · Bootstrap
-</p>
-
-</td>
-<td width="100%" valign="top">
-
-<h3 align="center">🏢 Management System</h3>
-<p align="center">Business and employee management.</p>
-<p align="center">
-Laravel · MySQL · JavaScript
-</p>
-
-</td>
-</tr>
-<tr>
-<td width="100%" valign="top">
-
-<h3 align="center">📝 Blog Application</h3>
-<p align="center">Dynamic blog with admin dashboard.</p>
-<p align="center">
-Laravel · MySQL · Bootstrap
-</p>
-
-</td>
-<td width="100%" valign="top">
-
-<h3 align="center">🎓 Learning Platform</h3>
-<p align="center">Online course management system.</p>
-<p align="center">
-PHP · Laravel · REST API
-</p>
-
-</td>
-</tr>
+<table width="100%" align="center">
+  <tr>
+    <td width="50%" valign="top" align="center" bgcolor="#161B32">
+      <br/>
+      <h2>🛒</h2>
+      <h3><font color="#A78BFA">E-Commerce System</font></h3>
+      <p><font color="#D1D5DB">A modern online shopping platform with product management, cart, checkout and order tracking.</font></p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      </p>
+      <p><a href="#"><b>🔗 View Project</b></a></p>
+      <br/>
+    </td>
+    <td width="50%" valign="top" align="center" bgcolor="#172B35">
+      <br/>
+      <h2>🏢</h2>
+      <h3><font color="#34D399">Management System</font></h3>
+      <p><font color="#D1D5DB">A business and employee management platform with an interactive admin dashboard.</font></p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      </p>
+      <p><a href="#"><b>🔗 View Project</b></a></p>
+      <br/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center" bgcolor="#30213B">
+      <br/>
+      <h2>📝</h2>
+      <h3><font color="#F0ABFC">Blog Application</font></h3>
+      <p><font color="#D1D5DB">A dynamic blogging platform with content management and a powerful admin dashboard.</font></p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+      </p>
+      <p><a href="#"><b>🔗 View Project</b></a></p>
+      <br/>
+    </td>
+    <td width="50%" valign="top" align="center" bgcolor="#302B1D">
+      <br/>
+      <h2>🎓</h2>
+      <h3><font color="#FBBF24">Learning Platform</font></h3>
+      <p><font color="#D1D5DB">An online learning platform for course management and student activities.</font></p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square"/>
+      </p>
+      <p><a href="#"><b>🔗 View Project</b></a></p>
+      <br/>
+    </td>
+  </tr>
 </table>
 
 <p align="center">
-<sub>Project examples and ideas — add repository links when your implementations are ready.</sub>
+  <sub>✨ More projects coming soon — turning ideas into real-world applications.</sub>
 </p>
+
 
 ---
 
