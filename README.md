@@ -1,144 +1,267 @@
-<!-- ===================== HEADER ===================== -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:1F6FEB,100:58A6FF&text=Md%20Saker%20Ali&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=Developer%20%7C%20Problem%20Solver%20%7C%20Lifelong%20Learner&descAlignY=58&descSize=18&animation=fadeIn" alt="header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:4F46E5,100:9333EA&height=220&section=header&text=MD.%20SAKER%20ALI&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=PHP%20LARAVEL%20FULL%20STACK%20DEVELOPER&descAlignY=58&descSize=18" width="100%" />
 
-<a href="https://github.com/devsaker">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=620&height=40&lines=Hi+there%2C+I'm+Saker+%F0%9F%91%8B;Building+clean+%26+useful+things+for+the+web;Based+in+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9;Open+to+collaboration+and+new+ideas" alt="typing" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=8B9CFB&center=true&vCenter=true&width=650&lines=PHP+Laravel+Full+Stack+Developer;Building+Modern+Web+Applications;Backend+%7C+Frontend+%7C+Database;Clean+Code+%7C+Creative+Solutions" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=devsaker&label=Profile+Views&color=1F6FEB&style=for-the-badge" alt="views" />
-<a href="https://github.com/devsaker?tab=followers"><img src="https://img.shields.io/github/followers/devsaker?label=Followers&style=for-the-badge&logo=github&color=1F6FEB&labelColor=0D1117" alt="followers" /></a>
-<a href="https://github.com/devsaker?tab=repositories"><img src="https://img.shields.io/github/stars/devsaker?label=Stars&style=for-the-badge&logo=github&color=1F6FEB&labelColor=0D1117" alt="stars" /></a>
+<a href="https://github.com/devsaker">
+<img src="https://img.shields.io/badge/GitHub-devsaker-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:devsaker.bd@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
-<br/>
+---
 
-<!-- ===================== ABOUT ===================== -->
-## 👨‍💻 About Me
+<h2 align="center">👨‍💻 ABOUT ME</h2>
 
-```js
-const saker = {
-  name: "Md Saker Ali",
-  username: "devsaker",
-  location: "Bangladesh 🇧🇩",
-  currentlyWorkingOn: "your project here",
-  currentlyLearning: ["your tech here", "another tech"],
-  askMeAbout: ["web development", "your topic"],
-  lookingToCollaborateOn: "open-source & web projects",
-  funFact: "write something about you",
-};
-```
+<p align="center">
+I'm <b>Md. Saker Ali</b>, an aspiring PHP Laravel Full Stack Developer from Bangladesh.
+</p>
 
-<br/>
+<p align="center">
+I am passionate about developing modern, responsive, secure and scalable web applications using PHP, Laravel and modern frontend technologies.
+</p>
 
-<!-- ===================== TECH STACK ===================== -->
-## 🛠️ Tech Stack
+- 🔭 Focused on PHP & Laravel Development
+- 🌱 Learning Full Stack Web Development
+- 💻 Exploring REST APIs and Database Architecture
+- 🎨 Interested in Modern UI/UX Design
+- 🚀 Building practical web development projects
+- 🎯 Goal: Become a Professional Full Stack Developer
 
-<table>
-  <tr>
-    <td><b>Languages</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=js,ts,html,css,python&theme=dark" alt="languages" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" alt="frontend" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Backend & DB</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" alt="backend" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Tools</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux&theme=dark" alt="tools" />
-    </td>
-  </tr>
+---
+
+<h2 align="center">⚡ TECH STACK & SKILLS</h2>
+
+<h3 align="center">💜 Backend Development</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MVC_Architecture-6C63FF?style=for-the-badge" />
+</p>
+
+<h3 align="center">🌐 Frontend Development</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,jquery" />
+</p>
+
+<h3 align="center">🗄️ Database & Storage</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
+</p>
+
+<h3 align="center">🛠️ Development Tools</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,figma" />
+</p>
+
+<h3 align="center">🔐 Additional Backend Skills</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Laravel_Authentication-FF2D20?style=flat-square" />
+<img src="https://img.shields.io/badge/Eloquent_ORM-FF2D20?style=flat-square" />
+<img src="https://img.shields.io/badge/Database_Design-4479A1?style=flat-square" />
+<img src="https://img.shields.io/badge/API_Integration-6C63FF?style=flat-square" />
+<img src="https://img.shields.io/badge/Authorization-00897B?style=flat-square" />
+<img src="https://img.shields.io/badge/Testing-PHPUnit-366488?style=flat-square" />
+</p>
+
+---
+
+<h2 align="center">🚀 DEVELOPMENT SKILLS</h2>
+
+<table width="100%">
+<tr>
+<td width="100%" valign="top">
+
+### Backend
+- PHP Programming
+- Laravel Framework
+- MVC Architecture
+- RESTful API Development
+- Authentication & Authorization
+- Middleware
+- Eloquent ORM
+- Database Relationships
+- Form Validation
+- API Security
+
+</td>
+<td width="100%" valign="top">
+
+### Frontend
+- HTML5 & CSS3
+- JavaScript ES6+
+- Bootstrap
+- Tailwind CSS
+- Responsive Web Design
+- React.js
+- jQuery
+- AJAX
+- UI/UX Fundamentals
+- API Integration
+
+</td>
+</tr>
+<tr>
+<td width="100%" valign="top">
+
+### Database
+- MySQL
+- PostgreSQL
+- MongoDB
+- SQL Queries
+- Database Normalization
+- Indexing
+- Migrations
+- Relationships
+
+</td>
+<td width="100%" valign="top">
+
+### Professional Tools
+- Git & GitHub
+- VS Code
+- Postman
+- Composer
+- NPM
+- Docker
+- Linux
+- CI/CD
+- Deployment
+- Debugging
+
+</td>
+</tr>
 </table>
 
-> Apni jegulo use koren na, segulo `i=` list theke muche din. Icon list: https://skillicons.dev
+---
 
-<br/>
+<h2 align="center">💼 FEATURED PROJECTS</h2>
 
-<!-- ===================== STATS ===================== -->
-## 📊 GitHub Stats
+<table width="100%">
+<tr>
+<td width="100%" valign="top">
+
+<h3 align="center">🛒 E-Commerce System</h3>
+<p align="center">A modern online shopping platform.</p>
+<p align="center">
+PHP · Laravel · MySQL · Bootstrap
+</p>
+
+</td>
+<td width="100%" valign="top">
+
+<h3 align="center">🏢 Management System</h3>
+<p align="center">Business and employee management.</p>
+<p align="center">
+Laravel · MySQL · JavaScript
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="100%" valign="top">
+
+<h3 align="center">📝 Blog Application</h3>
+<p align="center">Dynamic blog with admin dashboard.</p>
+<p align="center">
+Laravel · MySQL · Bootstrap
+</p>
+
+</td>
+<td width="100%" valign="top">
+
+<h3 align="center">🎓 Learning Platform</h3>
+<p align="center">Online course management system.</p>
+<p align="center">
+PHP · Laravel · REST API
+</p>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+<sub>Project examples and ideas — add repository links when your implementations are ready.</sub>
+</p>
+
+---
+
+<h2 align="center">📊 GITHUB STATISTICS</h2>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-stats.vercel.app/api?username=devsaker&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsaker&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img width="95%" src="https://streak-stats.demolab.com?user=devsaker&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<h2 align="center">🎯 CURRENT LEARNING ROADMAP</h2>
+
+- [ ] Advanced PHP & OOP
+- [ ] Laravel Fundamentals
+- [ ] Laravel Eloquent ORM
+- [ ] REST API Development
+- [ ] Authentication & Authorization
+- [ ] MySQL Database Design
+- [ ] JavaScript & React.js
+- [ ] Laravel Testing
+- [ ] Docker & Deployment
+- [ ] Build Real-World Full Stack Projects
+
+---
+
+<h2 align="center">📫 CONNECT WITH ME</h2>
 
 <div align="center">
 
 <a href="https://github.com/devsaker">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=devsaker&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&count_private=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=devsaker&show_icons=true&theme=default&hide_border=true&title_color=0969DA&icon_color=0969DA&count_private=true" />
-    <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=devsaker&show_icons=true&theme=tokyonight&hide_border=true" />
-  </picture>
-</a>
-<a href="https://github.com/devsaker?tab=repositories">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=devsaker&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=devsaker&layout=compact&theme=default&hide_border=true&title_color=0969DA" />
-    <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsaker&layout=compact&theme=tokyonight&hide_border=true" />
-  </picture>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br/>
+<a href="mailto:devsaker.bd@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-<img src="https://streak-stats.demolab.com/?user=devsaker&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=1F6FEB&currStreakLabel=58A6FF" alt="streak" />
+<br/><br/>
+
+📍 Bangladesh
 
 </div>
 
-<br/>
-
-<!-- ===================== TROPHIES ===================== -->
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devsaker&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="trophies" />
-</div>
-
-<br/>
-
-<!-- ===================== ACTIVITY ===================== -->
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devsaker&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=true" alt="activity graph" width="100%" />
-</div>
-
-<br/>
-
-<!-- ===================== SNAKE ===================== -->
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devsaker/devsaker/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devsaker/devsaker/output/github-contribution-grid-snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/devsaker/devsaker/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</div>
-
-<br/>
-
-<!-- ===================== CONNECT ===================== -->
-## 🤝 Let's Connect
+---
 
 <div align="center">
 
-<a href="https://linkedin.com/in/your-id"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://facebook.com/your-id"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" alt="Portfolio" /></a>
+### 💜 CODE. CREATE. INNOVATE.
+
+**Turning ideas into powerful web applications.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,50:4F46E5,100:090979&height=120&section=footer" width="100%" />
 
 </div>
-
-<!-- ===================== FOOTER ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:58A6FF,50:1F6FEB,100:0D1117&section=footer" alt="footer" width="100%" />
