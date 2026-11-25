@@ -37,106 +37,85 @@ I am passionate about developing modern, responsive, secure and scalable web app
 
 ---
 
+
+
 <h2 align="center">⚡ TECH STACK & SKILLS</h2>
 
-<h3 align="center">💜 Backend Development</h3>
+<table width="100%" align="center" cellpadding="12">
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs" />
-</p>
+<tr>
+<td width="25%" align="center" valign="middle" bgcolor="#17152E">
+<h3>💜 Backend Development</h3>
+</td>
+<td width="75%" align="center" valign="middle" bgcolor="#211D42">
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MVC_Architecture-6C63FF?style=for-the-badge"/>
+</td>
+</tr>
 
-<p align="center">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MVC_Architecture-6C63FF?style=for-the-badge" />
-</p>
+<tr>
+<td width="25%" align="center" valign="middle" bgcolor="#142B35">
+<h3>🌐 Frontend Development</h3>
+</td>
+<td width="75%" align="center" valign="middle" bgcolor="#183846">
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,jquery"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</td>
+</tr>
 
-<h3 align="center">🌐 Frontend Development</h3>
+<tr>
+<td width="25%" align="center" valign="middle" bgcolor="#30213B">
+<h3>🗄️ Database & Storage</h3>
+</td>
+<td width="75%" align="center" valign="middle" bgcolor="#42294D">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+</td>
+</tr>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,jquery" />
-</p>
+<tr>
+<td width="25%" align="center" valign="middle" bgcolor="#302B1D">
+<h3>🛠️ Development Tools</h3>
+</td>
+<td width="75%" align="center" valign="middle" bgcolor="#40371F">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,figma"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</td>
+</tr>
 
-<h3 align="center">🗄️ Database & Storage</h3>
+<tr>
+<td width="25%" align="center" valign="middle" bgcolor="#172B35">
+<h3>🔐 Additional Backend Skills</h3>
+</td>
+<td width="75%" align="center" valign="middle" bgcolor="#1D3B45">
+<br/>
+<img src="https://img.shields.io/badge/Laravel_Authentication-FF2D20?style=flat-square"/>
+<img src="https://img.shields.io/badge/Eloquent_ORM-FF2D20?style=flat-square"/>
+<img src="https://img.shields.io/badge/Database_Design-4479A1?style=flat-square"/>
+<img src="https://img.shields.io/badge/API_Integration-6C63FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Authorization-00897B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Testing-PHPUnit-366488?style=flat-square"/>
+<br/><br/>
+</td>
+</tr>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
-</p>
-
-<h3 align="center">🛠️ Development Tools</h3>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,figma" />
-</p>
-
-<h3 align="center">🔐 Additional Backend Skills</h3>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Laravel_Authentication-FF2D20?style=flat-square" />
-<img src="https://img.shields.io/badge/Eloquent_ORM-FF2D20?style=flat-square" />
-<img src="https://img.shields.io/badge/Database_Design-4479A1?style=flat-square" />
-<img src="https://img.shields.io/badge/API_Integration-6C63FF?style=flat-square" />
-<img src="https://img.shields.io/badge/Authorization-00897B?style=flat-square" />
-<img src="https://img.shields.io/badge/Testing-PHPUnit-366488?style=flat-square" />
-</p>
-
----
-
-
-<h2 align="center">🚀 DEVELOPMENT SKILLS</h2>
-
-<table width="100%" align="center">
-  <thead>
-    <tr>
-      <th width="25%" align="left">Category</th>
-      <th width="75%" align="left">Skills & Technologies</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>Backend</b></td>
-      <td>
-        PHP Programming · Laravel Framework · MVC Architecture · RESTful API Development · Authentication & Authorization · Middleware · Eloquent ORM · Database Relationships · Form Validation · API Security
-      </td>
-    </tr>
-    <tr>
-      <td><b>Frontend</b></td>
-      <td>
-        HTML5 · CSS3 · JavaScript ES6+ · Bootstrap · Tailwind CSS · React.js · jQuery · AJAX · Responsive Web Design · API Integration · UI/UX Fundamentals
-      </td>
-    </tr>
-    <tr>
-      <td><b>Database</b></td>
-      <td>
-        MySQL · PostgreSQL · MongoDB · SQL Queries · Database Normalization · Indexing · Migrations · Database Relationships
-      </td>
-    </tr>
-    <tr>
-      <td><b>Security</b></td>
-      <td>
-        Laravel Authentication · Authorization · Middleware Security · CSRF Protection · Input Validation · Password Hashing
-      </td>
-    </tr>
-    <tr>
-      <td><b>Development Tools</b></td>
-      <td>
-        Git · GitHub · VS Code · Postman · Composer · NPM · Debugging
-      </td>
-    </tr>
-    <tr>
-      <td><b>DevOps & Deployment</b></td>
-      <td>
-        Linux · Docker · CI/CD · Server Configuration · Application Deployment
-      </td>
-    </tr>
-    <tr>
-      <td><b>Testing</b></td>
-      <td>
-        PHPUnit · Laravel Feature Testing · Unit Testing · API Testing
-      </td>
-    </tr>
-  </tbody>
 </table>
 
 
